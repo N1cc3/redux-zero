@@ -1,5 +1,5 @@
 {
-  "name": "redux-zero",
+  "name": "@n1cc3/redux-zero",
   "version": "5.1.0",
   "description": "",
   "main": "dist/redux-zero.js",
@@ -20,7 +20,7 @@
     "prepublish": "yarn run build",
     "precommit": "yarn run build"
   },
-  "author": "Matheus Lima <matheusml90@gmail.com>",
+  "author": "Niclas Lindgren (https://github.com/N1cc3)",
   "files": [
     "devtools",
     "dist",
