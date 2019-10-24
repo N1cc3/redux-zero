@@ -30,6 +30,7 @@
     "react",
     "store",
     "svelte",
+    "types",
     "utils",
     "vue",
     "index.d.ts"
