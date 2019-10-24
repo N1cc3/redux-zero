@@ -1,6 +1,6 @@
 {
   "name": "@n1cc3/redux-zero",
-  "version": "5.1.0",
+  "version": "5.1.0+1",
   "description": "",
   "main": "dist/redux-zero.js",
   "types": "index.d.ts",
